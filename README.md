@@ -1,12 +1,12 @@
-### <h3 align="center">Hi, Im a Penetration Tester and Passionate Self-taught BackEnd Developer from Space</h3>
+### <h3 align="center">Hi, Im a Penetration Tester and Passionate Self-taught FullStack Developer from Space</h3>
 _______
-- 🔭 I’m currently working on **AI Assistant**
+- 🔭 I’m currently working on **Flutter Wallet**
 
-- 🌱 I’m currently learning **DataFlex**
+- 🌱 I’m currently learning **Flutter and Carbon**
 
 - 🤝 I’m looking for help with [InstAutomation](https://github.com/FakeSmileVX/InstAutomation)
 
-- 📫 How to reach me **info@inenarratus.com**
+- 📫 How to reach me **info@smileos.live**
 
 - ⚡ Fun fact **Music is my life**
 
