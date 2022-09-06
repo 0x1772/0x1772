@@ -10,8 +10,6 @@ _______
 
 - ⚡ Fun fact **Music is my life**
 
-- My Discord Music bot [AndroBot](https://discord.com/oauth2/authorize?client_id=898539700493647872&permissions=2205281600&scope=bot%20identify%20guilds%20applications.commands&redirect_url=http://localhost/api/callback&response_type=code)
-
 ### Tools
 
 ![](https://img.shields.io/badge/Tool-VisualStudioCode-informational?style=flat&logo=<TOOL>&logoColor=white&color=ff2300)
