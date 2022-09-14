@@ -8,6 +8,8 @@ _______
 
 - 📫 How to reach me **info@smileos.live**
 
+- 📱 My social media account is **https://www.instagram.com/0x1772**
+
 - ⚡ Fun fact **Music is my life**
 
 ### Tools
