@@ -1,12 +1,12 @@
 ### <h3 align="center">Hi, Im a Penetration Tester and Passionate Self-taught FullStack Developer from Space</h3>
 _______
-- 🔭 I’m currently working on **Flutter Wallet**
+- 🔭 I’m currently working on **Backbox ToolBox**
 
 - 🌱 I’m currently learning **Flutter and Carbon**
 
 - 🤝 I’m looking for help with [InstAutomation](https://github.com/0x1772/InstAutomation)
 
-- 📫 How to reach me **info@smileos.live**
+- 📫 How to reach me **info@0x1772.live**
 
 - 📱 My social media account is **https://www.instagram.com/0x1772**
 
