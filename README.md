@@ -4,7 +4,7 @@ _______
 
 - 🌱 I’m currently learning **Flutter and Carbon**
 
-- 🤝 I’m looking for help with [InstAutomation](https://github.com/0x1772/InstAutomation)
+- 🤝 I’m looking for help for ai project named CryptAI
 
 - 📫 How to reach me **info@0x1772.live**
 
